@@ -1,1 +1,1 @@
-ecommerce-nextjs-topaz.vercel.app
+https://ecommerce-nextjs-topaz.vercel.app
